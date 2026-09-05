@@ -1,0 +1,113 @@
+{
+  "title": "Hindi Land Record (Gorakhpur / Sahjanwa / Harpur Buzurg)",
+  "language": "Hindi",
+  "doc_type": "Land Record",
+  "format_type": "HANDWRITTEN",
+  "tokens": [
+    "89/2",
+    "275",
+    "0.860",
+    "गोरखपुर",
+    "सहजनवा",
+    "हरपुर बुजुर्ग",
+    "रामेश्वर प्रसाद",
+    "श्यामलाल प्रसाद",
+    "MUT/2025/365"
+  ],
+  "fields": {
+    "owner_name": "Rameshwar Prasad",
+    "father_name": "Shyamlal Prasad",
+    "district": "Gorakhpur",
+    "tehsil_mandal": "Sahjanwa",
+    "mandal": "Sahjanwa",
+    "tehsil": "Sahjanwa",
+    "taluk": null,
+    "village": "Harpur Buzurg",
+    "survey_number": "89/2",
+    "khasra_number": "89/2",
+    "khata_number": "275",
+    "plot_number": null,
+    "area": 0.86,
+    "area_unit": "Hectares",
+    "land_classification": "Agricultural (Irrigated)",
+    "ownership_type": "Khatedar",
+    "registration_number": null,
+    "registration_date": null,
+    "mutation_number": "MUT/2025/365",
+    "mutation_order_date": "2025-08-12",
+    "entry_date": "2025-08-14",
+    "state": "Uttar Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "रामेश्वर प्रसाद",
+      "value": "Rameshwar Prasad",
+      "confidence": 99.0
+    },
+    "father_name": {
+      "original_value": "श्यामलाल प्रसाद",
+      "value": "Shyamlal Prasad",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "हरपुर बुजुर्ग",
+      "value": "Harpur Buzurg",
+      "confidence": 99.0
+    },
+    "tehsil": {
+      "original_value": "सहजनवा",
+      "value": "Sahjanwa",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "गोरखपुर",
+      "value": "Gorakhpur",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "89/2",
+      "value": "89/2",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "275",
+      "value": "275",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "0.860 हेक्टेयर",
+      "value": 0.86,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "हेक्टेयर",
+      "value": "Hectares",
+      "confidence": 99.0
+    },
+    "land_classification": {
+      "original_value": "कृषि (सिंचित)",
+      "value": "Agricultural (Irrigated)",
+      "confidence": 99.0
+    },
+    "mutation_number": {
+      "original_value": "MUT/2025/365",
+      "value": "MUT/2025/365",
+      "confidence": 99.0
+    },
+    "mutation_order_date": {
+      "original_value": "12/08/2025",
+      "value": "2025-08-12",
+      "confidence": 99.0
+    },
+    "entry_date": {
+      "original_value": "14/08/2025",
+      "value": "2025-08-14",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "89/2",
+      "value": "89/2",
+      "confidence": 99.0
+    }
+  }
+}

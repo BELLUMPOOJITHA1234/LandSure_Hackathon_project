@@ -1,0 +1,97 @@
+{
+  "title": "Hindi Land Record (Lalbahadur Yadav / Chak Mohammadpur)",
+  "language": "Hindi",
+  "doc_type": "Land Record",
+  "format_type": "HANDWRITTEN",
+  "tokens": [
+    "112/1",
+    "334",
+    "1.25",
+    "6612/2024",
+    "लालबहादुर यादव",
+    "कुलदीप यादव",
+    "चक मोहम्मदपुर",
+    "गोरखपुर"
+  ],
+  "fields": {
+    "owner_name": "Lalbahadur Yadav",
+    "father_name": "Kuldeep Yadav",
+    "district": "Gorakhpur",
+    "tehsil_mandal": "Gorakhpur",
+    "mandal": "Gorakhpur",
+    "tehsil": "Gorakhpur",
+    "taluk": null,
+    "village": "Chak Mohammadpur",
+    "survey_number": "112/1",
+    "khasra_number": "112/1",
+    "khata_number": "334",
+    "plot_number": null,
+    "area": 1.25,
+    "area_unit": "Acres",
+    "land_classification": "Agricultural",
+    "ownership_type": "Khatedar",
+    "registration_number": "6612/2024",
+    "registration_date": "2024-11-03",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Uttar Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "लालबहादुर यादव",
+      "value": "Lalbahadur Yadav",
+      "confidence": 99.0
+    },
+    "father_name": {
+      "original_value": "कुलदीप यादव",
+      "value": "Kuldeep Yadav",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "चक मोहम्मदपुर",
+      "value": "Chak Mohammadpur",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "गोरखपुर",
+      "value": "Gorakhpur",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "112/1",
+      "value": "112/1",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "334",
+      "value": "334",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "1.25 एकड़",
+      "value": 1.25,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "एकड़",
+      "value": "Acres",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "6612/2024",
+      "value": "6612/2024",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "03-11-2024",
+      "value": "2024-11-03",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "112/1",
+      "value": "112/1",
+      "confidence": 99.0
+    }
+  }
+}

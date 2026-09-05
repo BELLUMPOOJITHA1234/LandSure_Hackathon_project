@@ -1,0 +1,97 @@
+{
+  "title": "Telugu Land Ownership Record (Pedavenkatapuram / Rajahmundry)",
+  "language": "Telugu",
+  "doc_type": "Land Record",
+  "format_type": "HANDWRITTEN",
+  "tokens": [
+    "124/2A",
+    "217/2022",
+    "356",
+    "2.35",
+    "పెదవెంకటాపురం",
+    "రాజమండ్రి",
+    "కృష్ణారావు",
+    "తూర్పుగోదావరి"
+  ],
+  "fields": {
+    "owner_name": "Krishna Rao Maddulli",
+    "father_name": null,
+    "district": "East Godavari",
+    "tehsil_mandal": "Rajahmundry Rural",
+    "mandal": "Rajahmundry Rural",
+    "tehsil": "Rajahmundry Rural",
+    "taluk": null,
+    "village": "Pedavenkatapuram",
+    "survey_number": "124/2A",
+    "khasra_number": "124/2A",
+    "khata_number": "356",
+    "plot_number": null,
+    "area": 2.35,
+    "area_unit": "Acres",
+    "land_classification": "Agricultural",
+    "ownership_type": "Individual Patta",
+    "registration_number": "217/2022",
+    "registration_date": "2022-06-15",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Andhra Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "కృష్ణారావు మద్దుల్లి",
+      "value": "Krishna Rao Maddulli",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "పెదవెంకటాపురం",
+      "value": "Pedavenkatapuram",
+      "confidence": 99.0
+    },
+    "mandal": {
+      "original_value": "రాజమండ్రి గ్రామీణ",
+      "value": "Rajahmundry Rural",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "తూర్పుగోదావరి",
+      "value": "East Godavari",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "124/2A",
+      "value": "124/2A",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "356",
+      "value": "356",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "2.35 ఎకరాలు",
+      "value": 2.35,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "ఎకరాలు",
+      "value": "Acres",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "217/2022",
+      "value": "217/2022",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "15/06/2022",
+      "value": "2022-06-15",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "124/2A",
+      "value": "124/2A",
+      "confidence": 99.0
+    }
+  }
+}

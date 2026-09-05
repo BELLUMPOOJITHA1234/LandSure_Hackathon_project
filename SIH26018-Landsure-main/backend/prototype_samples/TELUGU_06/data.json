@@ -1,0 +1,111 @@
+{
+  "id": "TELUGU_06",
+  "title": "Telangana Nizamabad Sale Deed (CJ 475829)",
+  "language": "Telugu",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed (అమ్మకపు దస్తావేజు)",
+  "tokens": [
+    "తెలంగాణ",
+    "TELANGANA",
+    "CJ 475829",
+    "15-03-2024",
+    "కొమరిపాటి వెంకటేశ్వరరావు",
+    "కొమరిపాటి నారాయణరావు",
+    "మధుసూదన్ రెడ్డి",
+    "అమ్మకపు దస్తావేజు",
+    "216/2",
+    "3.00 ఎకరాలు",
+    "నిజామాబాద్",
+    "ఇందూర్",
+    "9490123456"
+  ],
+  "fields": {
+    "owner_name": "Komaripati Venkateswara Rao",
+    "father_name": "Komaripati Narayana Rao",
+    "survey_number": "216/2",
+    "khasra_number": "216/2",
+    "khata_number": "58",
+    "plot_number": null,
+    "area": 3.0,
+    "area_unit": "Acres",
+    "village": "Indur",
+    "tehsil_mandal": "Nizamabad",
+    "mandal": "Nizamabad",
+    "tehsil": "Nizamabad",
+    "district": "Nizamabad",
+    "state": "Telangana",
+    "land_classification": "Agricultural Land",
+    "ownership_type": "Pattadar / Self-owned",
+    "registration_number": "CJ 475829",
+    "registration_date": "2024-03-15",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "శ్రీ కొమరిపాటి వెంకటేశ్వరరావు",
+      "value": "Komaripati Venkateswara Rao"
+    },
+    "father_name": {
+      "original_value": "శ్రీ కొమరిపాటి నారాయణరావు",
+      "value": "Komaripati Narayana Rao"
+    },
+    "survey_number": {
+      "original_value": "216/2",
+      "value": "216/2"
+    },
+    "khasra_number": {
+      "original_value": "216/2",
+      "value": "216/2"
+    },
+    "khata_number": {
+      "original_value": "58",
+      "value": "58"
+    },
+    "village": {
+      "original_value": "ఇందూర్ (నిజామాబాద్)",
+      "value": "Indur"
+    },
+    "mandal": {
+      "original_value": "నిజామాబాద్",
+      "value": "Nizamabad"
+    },
+    "tehsil_mandal": {
+      "original_value": "నిజామాబాద్",
+      "value": "Nizamabad"
+    },
+    "district": {
+      "original_value": "నిజామాబాద్",
+      "value": "Nizamabad"
+    },
+    "state": {
+      "original_value": "తెలంగాణ",
+      "value": "Telangana"
+    },
+    "area": {
+      "original_value": "3.00 ఎకరాలు",
+      "value": 3.0
+    },
+    "area_unit": {
+      "original_value": "ఎకరాలు",
+      "value": "Acres"
+    },
+    "land_classification": {
+      "original_value": "వ్యవసాయ భూమి",
+      "value": "Agricultural Land"
+    },
+    "ownership_type": {
+      "original_value": "అమ్మకందారు / పట్టాదారు",
+      "value": "Pattadar / Self-owned"
+    },
+    "registration_number": {
+      "original_value": "CJ 475829",
+      "value": "CJ 475829"
+    },
+    "registration_date": {
+      "original_value": "15-03-2024",
+      "value": "2024-03-15"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ODIA_02",
+  "title": "Odisha Nayapalli Sale Deed (OD 842593)",
+  "language": "Odia",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed Declaration (ବିକ୍ରୟ ପତ୍ର)",
+  "tokens": [
+    "ଓଡ଼ିଶା",
+    "ODISHA",
+    "OD 842593",
+    "25-08-2024",
+    "ମନୋଜ କୁମାର ଦାସ",
+    "ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ଦାସ",
+    "ପ୍ରୀତିରେଖା ମହାପାତ୍ର",
+    "ବିକ୍ରୟ ପତ୍ର",
+    "120/245",
+    "56",
+    "ନୟାପଲ୍ଲୀ",
+    "ଜଗନ୍ନାଥ ବିହାର",
+    "ଭୁବନେଶ୍ବର",
+    "9938112233"
+  ],
+  "fields": {
+    "owner_name": "Manoj Kumar Das",
+    "father_name": "Gobinda Chandra Das",
+    "survey_number": "120/245",
+    "khasra_number": "120/245",
+    "khata_number": "120/245",
+    "plot_number": "56",
+    "area": 2400.0,
+    "area_unit": "Sq. Feet",
+    "village": "Nayapalli",
+    "tehsil_mandal": "Bhubaneswar",
+    "mandal": "Bhubaneswar",
+    "tehsil": "Bhubaneswar",
+    "district": "Khurda",
+    "state": "Odisha",
+    "land_classification": "Residential Plot (ବାସସ୍ଥଳୀ)",
+    "ownership_type": "Rayati / Self-owned",
+    "registration_number": "OD 842593",
+    "registration_date": "2024-08-25",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "ଶ୍ରୀ ମନୋଜ କୁମାର ଦାସ",
+      "value": "Manoj Kumar Das"
+    },
+    "father_name": {
+      "original_value": "ଶ୍ରୀ ଗୋବିନ୍ଦ ଚନ୍ଦ୍ର ଦାସ",
+      "value": "Gobinda Chandra Das"
+    },
+    "survey_number": {
+      "original_value": "120/245",
+      "value": "120/245"
+    },
+    "khasra_number": {
+      "original_value": "120/245",
+      "value": "120/245"
+    },
+    "khata_number": {
+      "original_value": "120/245",
+      "value": "120/245"
+    },
+    "plot_number": {
+      "original_value": "56",
+      "value": "56"
+    },
+    "village": {
+      "original_value": "ନୟାପଲ୍ଲୀ, ଜଗନ୍ନାଥ ବିହାର",
+      "value": "Nayapalli"
+    },
+    "mandal": {
+      "original_value": "ଭୁବନେଶ୍ବର",
+      "value": "Bhubaneswar"
+    },
+    "tehsil_mandal": {
+      "original_value": "ଭୁବନେଶ୍ବର",
+      "value": "Bhubaneswar"
+    },
+    "district": {
+      "original_value": "ଖୋର୍ଦ୍ଧା",
+      "value": "Khurda"
+    },
+    "state": {
+      "original_value": "ଓଡ଼ିଶା",
+      "value": "Odisha"
+    },
+    "area": {
+      "original_value": "2400 ବର୍ଗଫୁଟ୍",
+      "value": 2400.0
+    },
+    "area_unit": {
+      "original_value": "ବର୍ଗଫୁଟ୍",
+      "value": "Sq. Feet"
+    },
+    "land_classification": {
+      "original_value": "ବାସସ୍ଥଳୀ ପ୍ଲଟ୍",
+      "value": "Residential Plot (ବାସସ୍ଥଳୀ)"
+    },
+    "ownership_type": {
+      "original_value": "ଦଲିଲ୍ ଲେଖକ / ବିକ୍ରେତା",
+      "value": "Rayati / Self-owned"
+    },
+    "registration_number": {
+      "original_value": "OD 842593",
+      "value": "OD 842593"
+    },
+    "registration_date": {
+      "original_value": "25-08-2024",
+      "value": "2024-08-25"
+    }
+  }
+}

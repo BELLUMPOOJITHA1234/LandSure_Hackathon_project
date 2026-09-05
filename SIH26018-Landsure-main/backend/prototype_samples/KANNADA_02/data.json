@@ -1,0 +1,110 @@
+{
+  "id": "KANNADA_02",
+  "title": "Karnataka Nelamangala Sale Deed (KA 682937)",
+  "language": "Kannada",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed (ಮಾರಾಟ ಪತ್ರ)",
+  "tokens": [
+    "ಕರ್ನಾಟಕ",
+    "KARNATAKA",
+    "KA 682937",
+    "22-07-2024",
+    "ಶಿವಕುಮಾರಪ್ಪ ಎಂ.",
+    "ಮೋಹನ್ ಕುಮಾರ್ ಎಸ್.",
+    "ಮಾರಾಟ ಪತ್ರ",
+    "128/5",
+    "ದೋಡ್ಡಂಸಂದ್ರ",
+    "ನೆಲಮಂಗಲ",
+    "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+    "9988776655"
+  ],
+  "fields": {
+    "owner_name": "Shivakumarappa M.",
+    "father_name": null,
+    "survey_number": "128/5",
+    "khasra_number": "128/5",
+    "khata_number": "128",
+    "plot_number": null,
+    "area": 1307.0,
+    "area_unit": "Sq. Feet",
+    "village": "Doddamsandra",
+    "tehsil_mandal": "Nelamangala",
+    "mandal": "Nelamangala",
+    "tehsil": "Nelamangala",
+    "district": "Bengaluru Rural",
+    "state": "Karnataka",
+    "land_classification": "Agricultural Land (ಕೃಷಿ ಜಮೀನು)",
+    "ownership_type": "Self-owned (ಸ್ವಂತ)",
+    "registration_number": "KA 682937",
+    "registration_date": "2024-07-22",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "ಶ್ರೀ ಶಿವಕುಮಾರಪ್ಪ ಎಂ.",
+      "value": "Shivakumarappa M."
+    },
+    "father_name": {
+      "original_value": null,
+      "value": null
+    },
+    "survey_number": {
+      "original_value": "128/5",
+      "value": "128/5"
+    },
+    "khasra_number": {
+      "original_value": "128/5",
+      "value": "128/5"
+    },
+    "khata_number": {
+      "original_value": "128",
+      "value": "128"
+    },
+    "village": {
+      "original_value": "ದೋಡ್ಡಂಸಂದ್ರ",
+      "value": "Doddamsandra"
+    },
+    "mandal": {
+      "original_value": "ನೆಲಮಂಗಲ",
+      "value": "Nelamangala"
+    },
+    "tehsil_mandal": {
+      "original_value": "ನೆಲಮಂಗಲ",
+      "value": "Nelamangala"
+    },
+    "district": {
+      "original_value": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+      "value": "Bengaluru Rural"
+    },
+    "state": {
+      "original_value": "ಕರ್ನಾಟಕ",
+      "value": "Karnataka"
+    },
+    "area": {
+      "original_value": "1,307 ಚದರ ಅಡಿ (1 ಗುಂಟೆ 30 ಸಂಕ)",
+      "value": 1307.0
+    },
+    "area_unit": {
+      "original_value": "ಚದರ ಅಡಿ",
+      "value": "Sq. Feet"
+    },
+    "land_classification": {
+      "original_value": "ಕೃಷಿ ಜಮೀನು",
+      "value": "Agricultural Land (ಕೃಷಿ ಜಮೀನು)"
+    },
+    "ownership_type": {
+      "original_value": "ಮಾರಾಟಗಾರ / ಮಾಲೀಕ",
+      "value": "Self-owned (ಸ್ವಂತ)"
+    },
+    "registration_number": {
+      "original_value": "KA 682937",
+      "value": "KA 682937"
+    },
+    "registration_date": {
+      "original_value": "22-07-2024",
+      "value": "2024-07-22"
+    }
+  }
+}

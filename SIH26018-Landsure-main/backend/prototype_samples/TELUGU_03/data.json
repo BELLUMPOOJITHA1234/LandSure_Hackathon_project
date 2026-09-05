@@ -1,0 +1,102 @@
+{
+  "title": "Telugu Handwritten Land Record (K. Rama / Gajwel)",
+  "language": "Telugu",
+  "doc_type": "Handwritten Land Record",
+  "format_type": "HANDWRITTEN",
+  "tokens": [
+    "78/1",
+    "198",
+    "1.75",
+    "553/2021",
+    "కె. రామ",
+    "వెంకటేశ్వరరావు",
+    "గజ్వేల్",
+    "కర్నూలు"
+  ],
+  "fields": {
+    "owner_name": "K. Rama",
+    "father_name": "A. Venkateswara Rao",
+    "district": "Kurnool",
+    "tehsil_mandal": "Gajwel",
+    "mandal": "Gajwel",
+    "tehsil": "Gajwel",
+    "taluk": null,
+    "village": "Gajwel",
+    "survey_number": "78/1",
+    "khasra_number": "78/1",
+    "khata_number": "198",
+    "plot_number": null,
+    "area": 1.75,
+    "area_unit": "Acres",
+    "land_classification": "Dry Farming",
+    "ownership_type": "Patta",
+    "registration_number": "553/2021",
+    "registration_date": "2021-03-05",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Andhra Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "కె. రామ",
+      "value": "K. Rama",
+      "confidence": 99.0
+    },
+    "father_name": {
+      "original_value": "ఎ. వెంకటేశ్వరరావు",
+      "value": "A. Venkateswara Rao",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "గజ్వేల్",
+      "value": "Gajwel",
+      "confidence": 99.0
+    },
+    "mandal": {
+      "original_value": "గజ్వేల్",
+      "value": "Gajwel",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "కర్నూలు",
+      "value": "Kurnool",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "78/1",
+      "value": "78/1",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "198",
+      "value": "198",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "1.75 ఎకరాలు",
+      "value": 1.75,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "ఎకరాలు",
+      "value": "Acres",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "553/2021",
+      "value": "553/2021",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "05-03-2021",
+      "value": "2021-03-05",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "78/1",
+      "value": "78/1",
+      "confidence": 99.0
+    }
+  }
+}

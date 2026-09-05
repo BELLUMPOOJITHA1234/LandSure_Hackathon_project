@@ -1,0 +1,100 @@
+{
+  "source_img": "C:\\Users\\nikhi\\.gemini\\antigravity\\brain\\df7d6bad-c44a-4b24-912a-7c8487fe9376\\.user_uploaded\\media_1788156075618.jpg",
+  "title": "Tamil Nadu Land Sale Deed (Ramasamy Velan / Thiruvidaimarudur)",
+  "language": "Tamil",
+  "doc_type": "Sale Deed",
+  "format_type": "PRINTED",
+  "tokens": [
+    "123/2B",
+    "456",
+    "2.75",
+    "BA 789561",
+    "இராமசாமி",
+    "சுப்பிரமணியன்",
+    "திருவிடைமருதூர்",
+    "கும்பகோணம்",
+    "தஞ்சாவூர்",
+    "15-05-2024"
+  ],
+  "fields": {
+    "owner_name": "Ramasamy Velan",
+    "father_name": null,
+    "district": "Thanjavur",
+    "tehsil_mandal": "Kumbakonam",
+    "mandal": "Kumbakonam",
+    "tehsil": "Kumbakonam",
+    "taluk": "Kumbakonam",
+    "village": "Thiruvidaimarudur",
+    "survey_number": "123/2B",
+    "khasra_number": "123/2B",
+    "khata_number": "456",
+    "plot_number": null,
+    "area": 2.75,
+    "area_unit": "Acres",
+    "land_classification": "Wet Land (Nanjai)",
+    "ownership_type": "Individual Ownership / Sale",
+    "registration_number": "BA 789561",
+    "registration_date": "2024-05-15",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Tamil Nadu"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "திரு. இராமசாமி வேலన్",
+      "value": "Ramasamy Velan",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "திருவிடைமருதூர்",
+      "value": "Thiruvidaimarudur",
+      "confidence": 99.0
+    },
+    "taluk": {
+      "original_value": "கும்பகோணம்",
+      "value": "Kumbakonam",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "தஞ்சாவூர்",
+      "value": "Thanjavur",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "123/2B",
+      "value": "123/2B",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "456",
+      "value": "456",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "2.75 ஏக்கர்",
+      "value": 2.75,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "ஏக்கர்",
+      "value": "Acres",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "BA 789561",
+      "value": "BA 789561",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "15-05-2024",
+      "value": "2024-05-15",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "123/2B",
+      "value": "123/2B",
+      "confidence": 99.0
+    }
+  }
+}

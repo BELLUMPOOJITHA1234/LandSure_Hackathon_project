@@ -1,0 +1,117 @@
+{
+  "id": "HINDI_05",
+  "title": "UP Lucknow Bainama Sale Deed (AH 783456)",
+  "language": "Hindi",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Bainama / Sale Deed (विक्रय पत्र)",
+  "tokens": [
+    "उत्तर प्रदेश",
+    "UTTAR PRADESH",
+    "AH 783456",
+    "10-05-2024",
+    "राजेश कुमार त्रिपाठी",
+    "महेश चंद्र त्रिपाठी",
+    "अमित वर्मा",
+    "विक्रय पत्र",
+    "बैनामा",
+    "125/2",
+    "3456",
+    "56",
+    "कृष्णा नगर",
+    "लखनऊ",
+    "9123456789"
+  ],
+  "fields": {
+    "owner_name": "Rajesh Kumar Tripathi",
+    "father_name": "Mahesh Chandra Tripathi",
+    "survey_number": "125/2",
+    "khasra_number": "125/2",
+    "khata_number": "3456",
+    "plot_number": "56",
+    "area": 120.0,
+    "area_unit": "Sq. Yards",
+    "village": "Krishna Nagar",
+    "tehsil_mandal": "Lucknow Sadar",
+    "mandal": "Lucknow Sadar",
+    "tehsil": "Lucknow Sadar",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "land_classification": "Residential Property (आवासीय भूखंड)",
+    "ownership_type": "Swamitva / Self-owned (स्वामित्व)",
+    "registration_number": "AH 783456",
+    "registration_date": "2024-05-10",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "श्री राजेश कुमार त्रिपाठी",
+      "value": "Rajesh Kumar Tripathi"
+    },
+    "father_name": {
+      "original_value": "श्री महेश चंद्र त्रिपाठी",
+      "value": "Mahesh Chandra Tripathi"
+    },
+    "survey_number": {
+      "original_value": "125/2",
+      "value": "125/2"
+    },
+    "khasra_number": {
+      "original_value": "125/2",
+      "value": "125/2"
+    },
+    "khata_number": {
+      "original_value": "3456",
+      "value": "3456"
+    },
+    "plot_number": {
+      "original_value": "56",
+      "value": "56"
+    },
+    "village": {
+      "original_value": "कृष्णा नगर, इंदिरा नगर",
+      "value": "Krishna Nagar"
+    },
+    "mandal": {
+      "original_value": "लखनऊ सदर",
+      "value": "Lucknow Sadar"
+    },
+    "tehsil_mandal": {
+      "original_value": "लखनऊ सदर",
+      "value": "Lucknow Sadar"
+    },
+    "district": {
+      "original_value": "लखनऊ",
+      "value": "Lucknow"
+    },
+    "state": {
+      "original_value": "उत्तर प्रदेश",
+      "value": "Uttar Pradesh"
+    },
+    "area": {
+      "original_value": "120 वर्ग गज",
+      "value": 120.0
+    },
+    "area_unit": {
+      "original_value": "वर्ग गज",
+      "value": "Sq. Yards"
+    },
+    "land_classification": {
+      "original_value": "आवासीय संपत्ति",
+      "value": "Residential Property (आवासीय भूखंड)"
+    },
+    "ownership_type": {
+      "original_value": "विक्रेता / पूर्ण स्वामी",
+      "value": "Swamitva / Self-owned (स्वामित्व)"
+    },
+    "registration_number": {
+      "original_value": "AH 783456",
+      "value": "AH 783456"
+    },
+    "registration_date": {
+      "original_value": "10-05-2024",
+      "value": "2024-05-10"
+    }
+  }
+}

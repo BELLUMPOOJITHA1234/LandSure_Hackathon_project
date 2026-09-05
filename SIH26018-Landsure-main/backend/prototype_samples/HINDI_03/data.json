@@ -1,0 +1,110 @@
+{
+  "source_img": "C:\\Users\\nikhi\\.gemini\\antigravity\\brain\\df7d6bad-c44a-4b24-912a-7c8487fe9376\\.user_uploaded\\media_1788156078230.jpg",
+  "title": "Uttar Pradesh Sale Deed (Mohan Lal Sharma / Nagla Veeru)",
+  "language": "Hindi",
+  "doc_type": "Sale Deed",
+  "format_type": "PRINTED",
+  "tokens": [
+    "145/1",
+    "312",
+    "1.250",
+    "BK 125678",
+    "मोहन लाल शर्मा",
+    "हरिश्चंद्र शर्मा",
+    "नगला वीरू",
+    "कोल",
+    "अलीगढ़",
+    "28-09-2023"
+  ],
+  "fields": {
+    "owner_name": "Mohan Lal Sharma",
+    "father_name": "Harishchandra Sharma",
+    "district": "Aligarh",
+    "tehsil_mandal": "Koil",
+    "mandal": "Koil",
+    "tehsil": "Koil",
+    "taluk": null,
+    "village": "Nagla Veeru",
+    "survey_number": "145/1",
+    "khasra_number": "145/1",
+    "khata_number": "312",
+    "plot_number": null,
+    "area": 1.25,
+    "area_unit": "Hectares",
+    "land_classification": "Agricultural (Irrigated)",
+    "ownership_type": "Self-owned (Swamitva)",
+    "registration_number": "BK 125678",
+    "registration_date": "2023-09-28",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Uttar Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "श्री मोहन लाल शर्मा",
+      "value": "Mohan Lal Sharma",
+      "confidence": 99.0
+    },
+    "father_name": {
+      "original_value": "श्री हरिश्चंद्र शर्मा",
+      "value": "Harishchandra Sharma",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "नगला वीरू",
+      "value": "Nagla Veeru",
+      "confidence": 99.0
+    },
+    "tehsil": {
+      "original_value": "कोल",
+      "value": "Koil",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "अलीगढ़",
+      "value": "Aligarh",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "145/1",
+      "value": "145/1",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "312",
+      "value": "312",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "1.250 हेक्टेयर",
+      "value": 1.25,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "हेक्टेयर",
+      "value": "Hectares",
+      "confidence": 99.0
+    },
+    "land_classification": {
+      "original_value": "कृषि (सिंचित)",
+      "value": "Agricultural (Irrigated)",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "BK 125678",
+      "value": "BK 125678",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "28-09-2023",
+      "value": "2023-09-28",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "145/1",
+      "value": "145/1",
+      "confidence": 99.0
+    }
+  }
+}

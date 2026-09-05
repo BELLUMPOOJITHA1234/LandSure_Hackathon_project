@@ -1,0 +1,97 @@
+{
+  "title": "English Land Survey Record (ROR-1B)",
+  "language": "English",
+  "doc_type": "Printed Record (ROR-1B)",
+  "format_type": "PRINTED",
+  "tokens": [
+    "145/3A",
+    "412",
+    "2.50",
+    "Kondru Ramu",
+    "Krishnapuram",
+    "Pedapadu",
+    "West Godavari",
+    "1042/2021"
+  ],
+  "fields": {
+    "owner_name": "Kondru Ramu",
+    "father_name": null,
+    "district": "West Godavari",
+    "tehsil_mandal": "Pedapadu",
+    "mandal": "Pedapadu",
+    "tehsil": "Pedapadu",
+    "taluk": null,
+    "village": "Krishnapuram",
+    "survey_number": "145/3A",
+    "khasra_number": "145/3A",
+    "khata_number": "412",
+    "plot_number": null,
+    "area": 2.5,
+    "area_unit": "Acres",
+    "land_classification": "Agricultural Dry Land",
+    "ownership_type": "Individual Patta",
+    "registration_number": "1042/2021",
+    "registration_date": "2021-04-12",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Andhra Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "Kondru Ramu",
+      "value": "Kondru Ramu",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "Krishnapuram",
+      "value": "Krishnapuram",
+      "confidence": 99.0
+    },
+    "mandal": {
+      "original_value": "Pedapadu",
+      "value": "Pedapadu",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "West Godavari",
+      "value": "West Godavari",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "145/3A",
+      "value": "145/3A",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "412",
+      "value": "412",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "2.50 Acres",
+      "value": 2.5,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "Acres",
+      "value": "Acres",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "1042/2021",
+      "value": "1042/2021",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "2021-04-12",
+      "value": "2021-04-12",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "145/3A",
+      "value": "145/3A",
+      "confidence": 99.0
+    }
+  }
+}

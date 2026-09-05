@@ -1,0 +1,90 @@
+{
+  "title": "Tamil Nadu Patta Passbook (Krishnamurthy / Sholavandan)",
+  "language": "Tamil",
+  "doc_type": "Patta Chitta Record",
+  "format_type": "PRINTED",
+  "tokens": [
+    "145/3A",
+    "504",
+    "3.20",
+    "கிருஷ்ணமூர்த்தி",
+    "சோழவந்தான்",
+    "மதுரை"
+  ],
+  "fields": {
+    "owner_name": "Krishnamurthy",
+    "father_name": null,
+    "district": "Madurai",
+    "tehsil_mandal": "Madurai",
+    "mandal": "Madurai",
+    "tehsil": "Madurai",
+    "taluk": "Madurai",
+    "village": "Sholavandan",
+    "survey_number": "145/3A",
+    "khasra_number": "145/3A",
+    "khata_number": "504",
+    "plot_number": null,
+    "area": 3.2,
+    "area_unit": "Hectares",
+    "land_classification": "Wet Land (Nanjai)",
+    "ownership_type": "Patta",
+    "registration_number": null,
+    "registration_date": "2021-11-25",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Tamil Nadu"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "கிருஷ்ணமூர்த்தி",
+      "value": "Krishnamurthy",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "சோழவந்தான்",
+      "value": "Sholavandan",
+      "confidence": 99.0
+    },
+    "taluk": {
+      "original_value": "மதுரை",
+      "value": "Madurai",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "மதுரை",
+      "value": "Madurai",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "145/3A",
+      "value": "145/3A",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "504",
+      "value": "504",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "3.20 ஹெக்டேர்",
+      "value": 3.2,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "ஹெக்டேர்",
+      "value": "Hectares",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "25.11.2021",
+      "value": "2021-11-25",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "145/3A",
+      "value": "145/3A",
+      "confidence": 99.0
+    }
+  }
+}

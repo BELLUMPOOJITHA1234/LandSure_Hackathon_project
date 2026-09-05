@@ -1,0 +1,111 @@
+{
+  "id": "TAMIL_03",
+  "title": "Tamil Nadu Salem Virpanai Pathiram (TN 685214)",
+  "language": "Tamil",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed (விற்பனைப் பத்திரம்)",
+  "tokens": [
+    "தமிழ்நாடு",
+    "TAMIL NADU",
+    "TN 685214",
+    "15-05-2024",
+    "அருண் குமார்",
+    "ராமசாமி",
+    "லதா",
+    "விற்பனைப் பத்திரம்",
+    "123/4",
+    "456/2",
+    "மணியாண்டம்",
+    "சேலம்",
+    "9786543210"
+  ],
+  "fields": {
+    "owner_name": "Thiru Arun Kumar",
+    "father_name": "Ramasamy",
+    "survey_number": "123/4",
+    "khasra_number": "123/4",
+    "khata_number": "456/2",
+    "plot_number": "123/4",
+    "area": 2400.0,
+    "area_unit": "Sq. Feet",
+    "village": "Maniyanoor",
+    "tehsil_mandal": "Salem",
+    "mandal": "Salem",
+    "tehsil": "Salem",
+    "district": "Salem",
+    "state": "Tamil Nadu",
+    "land_classification": "Residential Plot (மனை நிலம்)",
+    "ownership_type": "Pattadar / Self-owned",
+    "registration_number": "TN 685214",
+    "registration_date": "2024-05-15",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "திரு. அருண் குமார்",
+      "value": "Thiru Arun Kumar"
+    },
+    "father_name": {
+      "original_value": "திரு. ராமசாமி",
+      "value": "Ramasamy"
+    },
+    "survey_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "khasra_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "khata_number": {
+      "original_value": "456/2",
+      "value": "456/2"
+    },
+    "village": {
+      "original_value": "மணியாண்டம் / மணியனூர்",
+      "value": "Maniyanoor"
+    },
+    "mandal": {
+      "original_value": "சேலம்",
+      "value": "Salem"
+    },
+    "tehsil_mandal": {
+      "original_value": "சேலம்",
+      "value": "Salem"
+    },
+    "district": {
+      "original_value": "சேலம்",
+      "value": "Salem"
+    },
+    "state": {
+      "original_value": "தமிழ்நாடு",
+      "value": "Tamil Nadu"
+    },
+    "area": {
+      "original_value": "2400 சதுர அடி",
+      "value": 2400.0
+    },
+    "area_unit": {
+      "original_value": "சதுர அடி",
+      "value": "Sq. Feet"
+    },
+    "land_classification": {
+      "original_value": "காலி மனை நிலம்",
+      "value": "Residential Plot (மனை நிலம்)"
+    },
+    "ownership_type": {
+      "original_value": "விற்பனையாளர் / உரிமையாளர்",
+      "value": "Pattadar / Self-owned"
+    },
+    "registration_number": {
+      "original_value": "TN 685214",
+      "value": "TN 685214"
+    },
+    "registration_date": {
+      "original_value": "15-05-2024",
+      "value": "2024-05-15"
+    }
+  }
+}

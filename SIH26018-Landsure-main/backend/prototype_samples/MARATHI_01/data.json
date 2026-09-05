@@ -1,0 +1,111 @@
+{
+  "id": "MARATHI_01",
+  "title": "Maharashtra Satara Vikripatra (MA 812345)",
+  "language": "Marathi",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed (विक्रीपत्र / जाहिरनामा)",
+  "tokens": [
+    "महाराष्ट्र",
+    "MAHARASHTRA",
+    "MA 812345",
+    "01-06-2024",
+    "अमोल अशोक देशमुख",
+    "संदीप विजय चव्हाण",
+    "विक्रीपत्र",
+    "जाहिरनामा",
+    "123",
+    "तळमावले",
+    "कराड",
+    "सातारा",
+    "9881234567"
+  ],
+  "fields": {
+    "owner_name": "Amol Ashok Deshmukh",
+    "father_name": "Ashok Deshmukh",
+    "survey_number": "123",
+    "khasra_number": "123",
+    "khata_number": "101",
+    "plot_number": "123",
+    "area": 1000.0,
+    "area_unit": "Sq. Meters",
+    "village": "Talmavale",
+    "tehsil_mandal": "Karad",
+    "mandal": "Karad",
+    "tehsil": "Karad",
+    "district": "Satara",
+    "state": "Maharashtra",
+    "land_classification": "Non-Agricultural Land (NA Plot)",
+    "ownership_type": "Self-owned (मालकी हक्क)",
+    "registration_number": "MA 812345",
+    "registration_date": "2024-06-01",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "श्री. अमोल अशोक देशमुख",
+      "value": "Amol Ashok Deshmukh"
+    },
+    "father_name": {
+      "original_value": "अशोक देशमुख",
+      "value": "Ashok Deshmukh"
+    },
+    "survey_number": {
+      "original_value": "गट नं. 123",
+      "value": "123"
+    },
+    "khasra_number": {
+      "original_value": "गट नं. 123",
+      "value": "123"
+    },
+    "khata_number": {
+      "original_value": "101",
+      "value": "101"
+    },
+    "village": {
+      "original_value": "तळमावले",
+      "value": "Talmavale"
+    },
+    "mandal": {
+      "original_value": "कराड",
+      "value": "Karad"
+    },
+    "tehsil_mandal": {
+      "original_value": "कराड",
+      "value": "Karad"
+    },
+    "district": {
+      "original_value": "सातारा",
+      "value": "Satara"
+    },
+    "state": {
+      "original_value": "महाराष्ट्र",
+      "value": "Maharashtra"
+    },
+    "area": {
+      "original_value": "1000 चौ. मी.",
+      "value": 1000.0
+    },
+    "area_unit": {
+      "original_value": "चौ. मी.",
+      "value": "Sq. Meters"
+    },
+    "land_classification": {
+      "original_value": "अकृषिक भूखंड",
+      "value": "Non-Agricultural Land (NA Plot)"
+    },
+    "ownership_type": {
+      "original_value": "विक्रेता / पूर्ण मालक",
+      "value": "Self-owned (मालकी हक्क)"
+    },
+    "registration_number": {
+      "original_value": "MA 812345",
+      "value": "MA 812345"
+    },
+    "registration_date": {
+      "original_value": "01-06-2024",
+      "value": "2024-06-01"
+    }
+  }
+}

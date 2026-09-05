@@ -1,0 +1,111 @@
+{
+  "id": "GUJARATI_02",
+  "title": "Gujarat Surat Hakpatrak Deed (GJ 361245)",
+  "language": "Gujarati",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Hakpatrak Title Deed (હક્કપત્રક દાખલપત્ર)",
+  "tokens": [
+    "ગુજરાત",
+    "GUJARAT",
+    "GJ 361245",
+    "04-04-2024",
+    "હિતેશભાઈ અમૃતલાલ પટેલ",
+    "જયેશભાઈ કાંતિલાલ શાહ",
+    "હક્કપત્રક દાખલપત્ર",
+    "145/2",
+    "412",
+    "મોટી સરજૂ",
+    "કામોત્રા",
+    "સુરત",
+    "9876543210"
+  ],
+  "fields": {
+    "owner_name": "Hiteshbhai Amrutlal Patel",
+    "father_name": "Amrutlal Patel",
+    "survey_number": "145/2",
+    "khasra_number": "145/2",
+    "khata_number": "412",
+    "plot_number": null,
+    "area": 2.5,
+    "area_unit": "Hectares",
+    "village": "Moti Sarju",
+    "tehsil_mandal": "Kamotra",
+    "mandal": "Kamotra",
+    "tehsil": "Kamotra",
+    "district": "Surat",
+    "state": "Gujarat",
+    "land_classification": "Agricultural Land (ખેતીની જમીન)",
+    "ownership_type": "Pattadar / Khatedar (ખાતેદાર)",
+    "registration_number": "GJ 361245",
+    "registration_date": "2024-04-04",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "શ્રી હિતેશભાઈ અમૃતલાલ પટેલ",
+      "value": "Hiteshbhai Amrutlal Patel"
+    },
+    "father_name": {
+      "original_value": "અમૃતલાલ પટેલ",
+      "value": "Amrutlal Patel"
+    },
+    "survey_number": {
+      "original_value": "145/2",
+      "value": "145/2"
+    },
+    "khasra_number": {
+      "original_value": "145/2",
+      "value": "145/2"
+    },
+    "khata_number": {
+      "original_value": "412",
+      "value": "412"
+    },
+    "village": {
+      "original_value": "મોટી સરજૂ",
+      "value": "Moti Sarju"
+    },
+    "mandal": {
+      "original_value": "કામોત્રા",
+      "value": "Kamotra"
+    },
+    "tehsil_mandal": {
+      "original_value": "કામોત્રા",
+      "value": "Kamotra"
+    },
+    "district": {
+      "original_value": "સુરત",
+      "value": "Surat"
+    },
+    "state": {
+      "original_value": "ગુજરાત",
+      "value": "Gujarat"
+    },
+    "area": {
+      "original_value": "2.50 હેક્ટર",
+      "value": 2.5
+    },
+    "area_unit": {
+      "original_value": "હેક્ટર",
+      "value": "Hectares"
+    },
+    "land_classification": {
+      "original_value": "ખેતીની જમીન",
+      "value": "Agricultural Land"
+    },
+    "ownership_type": {
+      "original_value": "વેચનાર / ખાતેદાર",
+      "value": "Pattadar / Khatedar (ખાતેદાર)"
+    },
+    "registration_number": {
+      "original_value": "GJ 361245",
+      "value": "GJ 361245"
+    },
+    "registration_date": {
+      "original_value": "04-04-2024",
+      "value": "2024-04-04"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "KANNADA_01",
+  "title": "Karnataka Bengaluru Sale Deed (KA 684512)",
+  "language": "Kannada",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed (ವಿಕ್ರಯ ಪತ್ರ)",
+  "tokens": [
+    "ಕರ್ನಾಟಕ",
+    "KARNATAKA",
+    "KA 684512",
+    "20-04-2024",
+    "ರವೀಂದ್ರ ಹೆಗಡೆ",
+    "ಅನನ್ಯಾ ಶೆಟ್ಟಿ",
+    "ವಿಕ್ರಯ ಪತ್ರ",
+    "ಮಾರಾಟ ಪತ್ರ",
+    "123/4",
+    "4567",
+    "ಜಯನಗರ",
+    "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ",
+    "ಬೆಂಗಳೂರು",
+    "9966445566"
+  ],
+  "fields": {
+    "owner_name": "Ravindra Hegde",
+    "father_name": null,
+    "survey_number": "123/4",
+    "khasra_number": "123/4",
+    "khata_number": "4567",
+    "plot_number": "123/4",
+    "area": 2400.0,
+    "area_unit": "Sq. Feet",
+    "village": "Jayanagar",
+    "tehsil_mandal": "Bengaluru South",
+    "mandal": "Bengaluru South",
+    "tehsil": "Bengaluru South",
+    "district": "Bengaluru",
+    "state": "Karnataka",
+    "land_classification": "Residential Site (ನಿವೇಶನ)",
+    "ownership_type": "Self-owned (ಖಾಸಗಿ ಮಾಲೀಕತ್ವ)",
+    "registration_number": "KA 684512",
+    "registration_date": "2024-04-20",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "ಶ್ರೀ ರವೀಂದ್ರ ಹೆಗಡೆ",
+      "value": "Ravindra Hegde"
+    },
+    "father_name": {
+      "original_value": null,
+      "value": null
+    },
+    "survey_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "khasra_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "khata_number": {
+      "original_value": "4567",
+      "value": "4567"
+    },
+    "plot_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "village": {
+      "original_value": "ಜಯನಗರ",
+      "value": "Jayanagar"
+    },
+    "mandal": {
+      "original_value": "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ",
+      "value": "Bengaluru South"
+    },
+    "tehsil_mandal": {
+      "original_value": "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ",
+      "value": "Bengaluru South"
+    },
+    "district": {
+      "original_value": "ಬೆಂಗಳೂರು",
+      "value": "Bengaluru"
+    },
+    "state": {
+      "original_value": "ಕರ್ನಾಟಕ",
+      "value": "Karnataka"
+    },
+    "area": {
+      "original_value": "2400 ಚದರ ಅಡಿ",
+      "value": 2400.0
+    },
+    "area_unit": {
+      "original_value": "ಚದರ ಅಡಿ",
+      "value": "Sq. Feet"
+    },
+    "land_classification": {
+      "original_value": "ನಿವೇಶನ (ಆಸ್ತಿ)",
+      "value": "Residential Site (ನಿವೇಶನ)"
+    },
+    "ownership_type": {
+      "original_value": "ಮಾರಾಟಗಾರ / ಮಾಲೀಕ",
+      "value": "Self-owned (ಖಾಸಗಿ ಮಾಲೀಕತ್ವ)"
+    },
+    "registration_number": {
+      "original_value": "KA 684512",
+      "value": "KA 684512"
+    },
+    "registration_date": {
+      "original_value": "20-04-2024",
+      "value": "2024-04-20"
+    }
+  }
+}

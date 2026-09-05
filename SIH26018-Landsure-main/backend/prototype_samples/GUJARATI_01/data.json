@@ -1,0 +1,115 @@
+{
+  "id": "GUJARATI_01",
+  "title": "Gujarat Surat Agreement Deed (GJ 398765)",
+  "language": "Gujarati",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Land Agreement (સમજૂતી લેખપત્ર)",
+  "tokens": [
+    "ગુજરાત",
+    "GUJARAT",
+    "GJ 398765",
+    "05-01-2024",
+    "દેવાંશ કનુભાઈ પટેલ",
+    "પાર્થ હિતેશભાઈ શાહ",
+    "સમજૂતી લેખપત્ર",
+    "123/4",
+    "45",
+    "અઠવા",
+    "કામરેજ",
+    "સુરત",
+    "9876543210"
+  ],
+  "fields": {
+    "owner_name": "Devansh Kanubhai Patel",
+    "father_name": "Kanubhai Patel",
+    "survey_number": "123/4",
+    "khasra_number": "123/4",
+    "khata_number": "45",
+    "plot_number": "45",
+    "area": 120.0,
+    "area_unit": "Sq. Meters",
+    "village": "Athwa",
+    "tehsil_mandal": "Kamrej",
+    "mandal": "Kamrej",
+    "tehsil": "Kamrej",
+    "district": "Surat",
+    "state": "Gujarat",
+    "land_classification": "Residential Plot",
+    "ownership_type": "Self-owned (માલિકી હક્ક)",
+    "registration_number": "GJ 398765",
+    "registration_date": "2024-01-05",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "શ્રી દેવાંશ કનુભાઈ પટેલ",
+      "value": "Devansh Kanubhai Patel"
+    },
+    "father_name": {
+      "original_value": "કનુભાઈ પટેલ",
+      "value": "Kanubhai Patel"
+    },
+    "survey_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "khasra_number": {
+      "original_value": "123/4",
+      "value": "123/4"
+    },
+    "plot_number": {
+      "original_value": "45",
+      "value": "45"
+    },
+    "khata_number": {
+      "original_value": "45",
+      "value": "45"
+    },
+    "village": {
+      "original_value": "અઠવા",
+      "value": "Athwa"
+    },
+    "mandal": {
+      "original_value": "કામરેજ",
+      "value": "Kamrej"
+    },
+    "tehsil_mandal": {
+      "original_value": "કામરેજ",
+      "value": "Kamrej"
+    },
+    "district": {
+      "original_value": "સુરત",
+      "value": "Surat"
+    },
+    "state": {
+      "original_value": "ગુજરાત",
+      "value": "Gujarat"
+    },
+    "area": {
+      "original_value": "120 ચો. મીટર",
+      "value": 120.0
+    },
+    "area_unit": {
+      "original_value": "ચો. મીટર",
+      "value": "Sq. Meters"
+    },
+    "land_classification": {
+      "original_value": "રહેણાંક પ્લોટ",
+      "value": "Residential Plot"
+    },
+    "ownership_type": {
+      "original_value": "અમુક્તદાર / માલિક",
+      "value": "Self-owned (માલિકી હક્ક)"
+    },
+    "registration_number": {
+      "original_value": "GJ 398765",
+      "value": "GJ 398765"
+    },
+    "registration_date": {
+      "original_value": "05-01-2024",
+      "value": "2024-01-05"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ODIA_01",
+  "title": "Odisha Bhubaneswar Binama Deed (OD 725631)",
+  "language": "Odia",
+  "format_type": "HANDWRITTEN",
+  "doc_type": "Sale Deed (ବିକ୍ରୟ ପତ୍ର / ବିନାମା)",
+  "tokens": [
+    "ଓଡ଼ିଶା",
+    "ODISHA",
+    "OD 725631",
+    "10-07-2024",
+    "ସଞ୍ଜୟ କୁମାର ବେହେରା",
+    "ରବି ନାରାୟଣ ବେହେରା",
+    "ପ୍ରିୟଙ୍କା ପ୍ରିୟଦର୍ଶିନୀ",
+    "ବିକ୍ରୟ ପତ୍ର",
+    "ବିନାମା",
+    "143/2",
+    "85",
+    "56",
+    "ପଟିଆ",
+    "ଭୁବନେଶ୍ବର",
+    "9437012345"
+  ],
+  "fields": {
+    "owner_name": "Sanjay Kumar Behera",
+    "father_name": "Rabi Narayan Behera",
+    "survey_number": "143/2",
+    "khasra_number": "143/2",
+    "khata_number": "143/2",
+    "plot_number": "56",
+    "area": 2400.0,
+    "area_unit": "Sq. Feet",
+    "village": "Patia",
+    "tehsil_mandal": "Bhubaneswar",
+    "mandal": "Bhubaneswar",
+    "tehsil": "Bhubaneswar",
+    "district": "Khurda",
+    "state": "Odisha",
+    "land_classification": "Homestead Land (ବାସୋପଯୋଗୀ ଜମି)",
+    "ownership_type": "Rayati / Self-owned (ସ୍ବତନ୍ତ୍ର ସ୍ବତ୍ବ)",
+    "registration_number": "OD 725631",
+    "registration_date": "2024-07-10",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "ଶ୍ରୀ ସଞ୍ଜୟ କୁମାର ବେହେରା",
+      "value": "Sanjay Kumar Behera"
+    },
+    "father_name": {
+      "original_value": "ଶ୍ରୀ ରବି ନାରାୟଣ ବେହେରା",
+      "value": "Rabi Narayan Behera"
+    },
+    "survey_number": {
+      "original_value": "143/2",
+      "value": "143/2"
+    },
+    "khasra_number": {
+      "original_value": "143/2",
+      "value": "143/2"
+    },
+    "khata_number": {
+      "original_value": "143/2 (ଖତିଆନ 85)",
+      "value": "143/2"
+    },
+    "plot_number": {
+      "original_value": "56",
+      "value": "56"
+    },
+    "village": {
+      "original_value": "ପଟିଆ (ମୋହନା ରୋଡ୍)",
+      "value": "Patia"
+    },
+    "mandal": {
+      "original_value": "ଭୁବନେଶ୍ବର",
+      "value": "Bhubaneswar"
+    },
+    "tehsil_mandal": {
+      "original_value": "ଭୁବନେଶ୍ବର",
+      "value": "Bhubaneswar"
+    },
+    "district": {
+      "original_value": "ଖୋର୍ଦ୍ଧା / ଭୁବନେଶ୍ବର",
+      "value": "Khurda"
+    },
+    "state": {
+      "original_value": "ଓଡ଼ିଶା",
+      "value": "Odisha"
+    },
+    "area": {
+      "original_value": "2400 ବର୍ଗଫୁଟ୍",
+      "value": 2400.0
+    },
+    "area_unit": {
+      "original_value": "ବର୍ଗଫୁଟ୍",
+      "value": "Sq. Feet"
+    },
+    "land_classification": {
+      "original_value": "ବାସୋପଯୋଗୀ ଜମି",
+      "value": "Homestead Land (ବାସୋପଯୋଗୀ ଜମି)"
+    },
+    "ownership_type": {
+      "original_value": "ବିକ୍ରେତା / ସ୍ବତ୍ବାଧିକାରୀ",
+      "value": "Rayati / Self-owned (ସ୍ବତନ୍ତ୍ର ସ୍ବତ୍ବ)"
+    },
+    "registration_number": {
+      "original_value": "OD 725631",
+      "value": "OD 725631"
+    },
+    "registration_date": {
+      "original_value": "10-07-2024",
+      "value": "2024-07-10"
+    }
+  }
+}

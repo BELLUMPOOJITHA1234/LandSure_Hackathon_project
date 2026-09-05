@@ -1,0 +1,105 @@
+{
+  "source_img": "C:\\Users\\nikhi\\.gemini\\antigravity\\brain\\df7d6bad-c44a-4b24-912a-7c8487fe9376\\.user_uploaded\\media_1788156109884.jpg",
+  "title": "Andhra Pradesh Sale Deed (Mutyala Narasimhulu / Velagapudi)",
+  "language": "Telugu",
+  "doc_type": "Sale Deed",
+  "format_type": "PRINTED",
+  "tokens": [
+    "224/2B",
+    "578",
+    "3.15",
+    "DU 478965",
+    "ముత్యాల నరసింహులు",
+    "ముత్యాల సుబ్బారాయుడు",
+    "వెలగపూడి",
+    "ఏలూరు",
+    "పశ్చిమ గోదావరి",
+    "18-07-2023"
+  ],
+  "fields": {
+    "owner_name": "Mutyala Narasimhulu",
+    "father_name": "Mutyala Subbarayudu",
+    "district": "West Godavari",
+    "tehsil_mandal": "Eluru",
+    "mandal": "Eluru",
+    "tehsil": "Eluru",
+    "taluk": null,
+    "village": "Velagapudi",
+    "survey_number": "224/2B",
+    "khasra_number": "224/2B",
+    "khata_number": "578",
+    "plot_number": null,
+    "area": 3.15,
+    "area_unit": "Acres",
+    "land_classification": "Agricultural Land",
+    "ownership_type": "Sole Ownership Sale",
+    "registration_number": "DU 478965",
+    "registration_date": "2023-07-18",
+    "mutation_number": null,
+    "mutation_order_date": null,
+    "entry_date": null,
+    "state": "Andhra Pradesh"
+  },
+  "regional_values": {
+    "owner_name": {
+      "original_value": "శ్రీ ముత్యాల నరసింహులు",
+      "value": "Mutyala Narasimhulu",
+      "confidence": 99.0
+    },
+    "father_name": {
+      "original_value": "శ్రీ ముత్యాల సుబ్బారాయుడు",
+      "value": "Mutyala Subbarayudu",
+      "confidence": 99.0
+    },
+    "village": {
+      "original_value": "వెలగపూడి",
+      "value": "Velagapudi",
+      "confidence": 99.0
+    },
+    "mandal": {
+      "original_value": "ఏలూరు",
+      "value": "Eluru",
+      "confidence": 99.0
+    },
+    "district": {
+      "original_value": "పశ్చిమ గోదావరి",
+      "value": "West Godavari",
+      "confidence": 99.0
+    },
+    "survey_number": {
+      "original_value": "224/2B",
+      "value": "224/2B",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "original_value": "578",
+      "value": "578",
+      "confidence": 99.0
+    },
+    "area": {
+      "original_value": "3.15 ఎకరాలు",
+      "value": 3.15,
+      "confidence": 99.0
+    },
+    "area_unit": {
+      "original_value": "ఎకరాలు",
+      "value": "Acres",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "original_value": "DU 478965",
+      "value": "DU 478965",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "original_value": "18-07-2023",
+      "value": "2023-07-18",
+      "confidence": 99.0
+    },
+    "khasra_number": {
+      "original_value": "224/2B",
+      "value": "224/2B",
+      "confidence": 99.0
+    }
+  }
+}
