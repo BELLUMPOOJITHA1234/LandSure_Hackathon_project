@@ -84,7 +84,7 @@ flowchart TD
 - **Nikhil Appari** (Team Lead)
 - **Hemanth Birda**
 - **Sai Naidu Yalla**
-- **Poojitha Bellam**
+- **Poojitha Bellum**
 - **Kalyani Bondi**
 - **Madhavi Nakka**
 
